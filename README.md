@@ -23,7 +23,7 @@ To learn:
 ### _**Other projects:**_
 <div align="left" style="display: inline_block">
   <a href="https://github.com/AndMJ/carvasound_frontend">
-    <img align="center" height="130" src="https://github-readme-stats-one-rose-11.vercel.app/api/pin/?username=AndMJ&repo=carvasound_frontend&theme=dark&show_owner=true">
+    <img align="center" height="140" src="https://github-readme-stats-one-rose-11.vercel.app/api/pin/?username=AndMJ&repo=carvasound_frontend&theme=dark&show_owner=true">
   </a>
 </div>
 
