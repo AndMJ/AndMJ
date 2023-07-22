@@ -4,16 +4,38 @@
 
 `Web Developer | Know a bit of image editing too`
 
-_**To learn: Appwrite**_
+<br>
+
+To learn:
+* Appwrite
 
 <br>
 
-[![AndMJ's GitHub stats-Dark](https://github-readme-stats-one-rose-11.vercel.app/api?username=AndMJ\&show_icons=true\&theme=dark\&icon_color=1e90ff)](https://github.com/AndMJ/github-readme-stats#responsive-card-theme#gh-dark-mode-only\&icon_color=1e90ff)
+### _**University final project:**_
+<div align="left">
+  <a href="https://github.com/AndMJ/ptm_frontend">
+    <img align="center" height="120" src="https://github-readme-stats-one-rose-11.vercel.app/api/pin/?username=AndMJ&repo=ptm_frontend&theme=dark&show_owner=true">
+  </a>
+</div>
 
 <br>
 
-![Top Langs](https://github-readme-stats-one-rose-11.vercel.app/api/top-langs/?username=AndMJ\&layout=donut\&theme=dark#gh-dark-mode-only\&icon_color=1e90ff)
+### _**Other projects:**_
+<div align="left" style="display: inline_block">
+  <a href="https://github.com/AndMJ/carvasound_frontend">
+    <img align="center" height="130" src="https://github-readme-stats-one-rose-11.vercel.app/api/pin/?username=AndMJ&repo=carvasound_frontend&theme=dark&show_owner=true">
+  </a>
+</div>
 
+<br>
+
+### _**Stats:**_
+<div align="left">
+  <img align="center" height="180" src="https://github-readme-stats-one-rose-11.vercel.app/api?username=AndMJ&show_icons=true&theme=dark&icon_color=1e90ff">
+  <img align="center" height="180" src="https://github-readme-stats-one-rose-11.vercel.app/api/top-langs/?username=AndMJ&layout=compact&card_width=320&theme=dark#gh-dark-mode-only">
+</div>
+
+<br>
 
 ### _**Languages detail:**_
 <div style="display: inline_block">
