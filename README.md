@@ -12,6 +12,7 @@ github stats running on:
 
 To learn:
 * Appwrite
+* and many other things
 
 <br>
 
