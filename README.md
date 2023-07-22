@@ -1,5 +1,9 @@
 <!-- template 
 <img align="center" alt="AngularJS" height="30" width="40" src=""> 
+
+github stats running on: 
+  https://vercel.com/dashboard
+
 -->
 
 `Web Developer | Know a bit of image editing too`
