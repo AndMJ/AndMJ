@@ -16,6 +16,7 @@ To learn:
 <br>
 
 ### _**University final project:**_
+###### Score: 18/20
 <div align="left">
   <a href="https://github.com/AndMJ/ptm_frontend">
     <img align="center" height="120" src="https://github-readme-stats-one-rose-11.vercel.app/api/pin/?username=AndMJ&repo=ptm_frontend&theme=dark&show_owner=true">
