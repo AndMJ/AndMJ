@@ -36,10 +36,10 @@ To learn:
 
 ### _**Stats:**_
 <div align="left">
-  <a href="#!">
+  <a href="#stats">
     <img align="center" height="180" src="https://github-readme-stats-one-rose-11.vercel.app/api?username=AndMJ&show_icons=true&theme=dark&icon_color=1e90ff">
   </a>
-  <a href="#!">
+  <a href="#stats">
     <img align="center" height="180" src="https://github-readme-stats-one-rose-11.vercel.app/api/top-langs/?username=AndMJ&layout=compact&card_width=320&theme=dark#gh-dark-mode-only">
   </a>
 </div>
