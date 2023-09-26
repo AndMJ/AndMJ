@@ -12,7 +12,8 @@ github stats running on:
 
 To learn:
 * Appwrite
-* and many other things
+* node.js for API making
+* many more 
 
 <br>
 
