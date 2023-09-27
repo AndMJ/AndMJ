@@ -10,9 +10,10 @@ github stats running on:
 
 <br>
 
-To learn:
+To learn/learning:
+* React
 * Appwrite
-* node.js for API making
+* Node.js for API making
 * many more 
 
 <br>
