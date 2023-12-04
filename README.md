@@ -18,7 +18,7 @@ To learn/learning:
 
 <br>
 
-### _**University final project:**_
+### _**Final university project:**_
 ###### Score: 18/20
 <div align="left">
   <a href="https://github.com/AndMJ/ptm_frontend">
