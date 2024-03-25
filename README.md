@@ -13,7 +13,7 @@ github stats running on:
 To learn/learning:
 * React
 * Appwrite
-* Node.js for API making
+* REST API Node.js/Express
 * many more 
 
 <br>
