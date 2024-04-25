@@ -33,6 +33,9 @@ To learn/learning:
   <a href="https://github.com/AndMJ/carvasound">
     <img align="center" height="140" src="https://github-readme-stats-one-rose-11.vercel.app/api/pin/?username=AndMJ&repo=carvasound&theme=dark&show_owner=true">
   </a>
+  <a href="https://github.com/AndMJ/my-portfolio">
+    <img align="center" height="140" src="https://github-readme-stats-one-rose-11.vercel.app/api/pin/?username=AndMJ&repo=my-portfolio&theme=dark&show_owner=true">
+  </a>
 </div>
 
 <br>
