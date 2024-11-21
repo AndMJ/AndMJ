@@ -11,9 +11,9 @@ github stats running on:
 <br>
 
 To learn/learning/remembering:
-* React
-* Appwrite
-* REST API Node.js/Express
+* React.js
+* Next.js
+* RESTful API Node Express.js
 * SQL 
 
 <br>
