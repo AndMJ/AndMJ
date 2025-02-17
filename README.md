@@ -11,13 +11,15 @@ github stats running on:
 <br>
 
 ### Currently:
-  Going through a [Express.js course](https://www.udemy.com/course/expressjs-learn-node-node-js-express-js-master-nodejs)
 
-  Next I'm gonna be doing is a [Next.js course](https://www.udemy.com/course/react-the-complete-guide-incl-redux)
+#### UDEMY COURSES
+  [DONE] [Express.js course](https://www.udemy.com/course/expressjs-learn-node-node-js-express-js-master-nodejs) | [certificate](https://www.udemy.com/certificate/UC-e5a49e44-d7af-4709-bc06-68f307be3ecc/)
+
+  To do: [Next.js course](https://www.udemy.com/course/react-the-complete-guide-incl-redux)
 
 <br>
 
-To learn/learning/remembering:
+#### To learn/learning/remembering:
 * React.js
 * Next.js
 * RESTful API Node Express.js
