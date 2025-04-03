@@ -6,11 +6,11 @@ github stats running on:
 
 -->
 
-`Web Developer | Know a bit of image editing too`
+`Web Developer | Know basics of Photoshop and Illustrator`
 
 <br>
 
-### Currently:
+<!--### Currently:
 
 #### UDEMY COURSES
   [DONE] [Express.js course](https://www.udemy.com/course/expressjs-learn-node-node-js-express-js-master-nodejs) | [certificate](https://www.udemy.com/certificate/UC-e5a49e44-d7af-4709-bc06-68f307be3ecc/)
@@ -26,7 +26,7 @@ github stats running on:
 * SQL
 
 
-<br>
+<br>-->
 
 ### _**Final university project:**_
 ###### Score: 18/20
