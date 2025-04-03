@@ -6,7 +6,7 @@ github stats running on:
 
 -->
 
-`Web Developer | Know basics of Photoshop and Illustrator`
+`Know some Web Development | Know basics of Photoshop and Illustrator`
 
 <br>
 
