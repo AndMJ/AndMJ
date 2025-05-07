@@ -28,11 +28,15 @@ github stats running on:
 
 <br>-->
 
+### \* Learning DevOps / Kubernetes / Talos OS \*
+
+<br>
+
 ### _**Final university project:**_
 ###### Score: 18/20
 <div align="left">
   <a href="https://github.com/AndMJ/ptm_frontend">
-    <img align="center" height="120" src="https://github-readme-stats-one-rose-11.vercel.app/api/pin/?username=AndMJ&repo=ptm_frontend&theme=dark&show_owner=true">
+    <img align="center" height="140" src="https://github-readme-stats-one-rose-11.vercel.app/api/pin/?username=AndMJ&repo=ptm_frontend&theme=dark&show_owner=true">
   </a>
 </div>
 
@@ -43,8 +47,9 @@ github stats running on:
   <a href="https://github.com/AndMJ/carvasound">
     <img align="center" height="140" src="https://github-readme-stats-one-rose-11.vercel.app/api/pin/?username=AndMJ&repo=carvasound&theme=dark&show_owner=true">
   </a>
+  <br>
   <a href="https://github.com/AndMJ/my-portfolio">
-    <img align="center" height="140" src="https://github-readme-stats-one-rose-11.vercel.app/api/pin/?username=AndMJ&repo=my-portfolio&theme=dark&show_owner=true">
+    <img align="center" width="400" height="140" src="https://github-readme-stats-one-rose-11.vercel.app/api/pin/?username=AndMJ&repo=my-portfolio&theme=dark&show_owner=true">
   </a>
 </div>
 
